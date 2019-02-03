@@ -14,7 +14,7 @@
 **Software:**
 
 - •Arduino IDE
-- •Arduino sketch for this project: [https://github.com/hyperrhiz/muscle](https://github.com/hyperrhiz/muscle)
+- •Arduino sketch for this project: [https://github.com/hyperrhiz/muscle](https://github.com/hyperrhiz/muscle/blob/master/muscle.ino)
 
 **Tools:**
 
@@ -24,23 +24,23 @@
 
 **Wiring Chart:**
 
-![Figure 1 Breadboard design of the muscle developer](https://github.com/hyperrhiz/muscle/blob/master/image001.png "")
+![Figure 1 Breadboard design of the muscle developer](https://github.com/hyperrhiz/muscle/blob/master/img/image001.png "")
 
 _Figure 1 Breadboard design of the muscle developer_
 
-![Figure 2 Wiring schematic for the muscle developer](https://github.com/hyperrhiz/muscle/blob/master/image002.png "")
+![Figure 2 Wiring schematic for the muscle developer](https://github.com/hyperrhiz/muscle/blob/master/img/image002.png "")
 
 _Figure 2 Wiring schematic for the muscle developer_
 
-![Figure 3 muscle developer](https://github.com/hyperrhiz/muscle/blob/master/image003.png "")
+![Figure 3 muscle developer](https://github.com/hyperrhiz/muscle/blob/master/img/image003.png "")
 
 _Figure 3 Muscle developer; from top to bottom: accelerometer, LED backpack, 3.7v battery, Arduino Gemma microcontroller, shock pen components, sewn onto a tensor bandage._
 
-![Figure 4 The wiring to connect the shock pen circuit to the Arduino](https://github.com/hyperrhiz/muscle/blob/master/image004.png "")
+![Figure 4 The wiring to connect the shock pen circuit to the Arduino](https://github.com/hyperrhiz/muscle/blob/master/img/image004.png "")
 
-_Figure 4 The wiring to connect the shock pen circuit to the Arduino. Most shock pens I’ve seen opened up follow this same design. _**_Note that both white wires are connected to the center, and not to any of the sides._**
+_Figure 4 The wiring to connect the shock pen circuit to the Arduino. Most shock pens I’ve seen opened up follow this same design. _**_Note that both white wires are connected to the center, and not to any of the sides._**_
 
-![Figure 5 The shock pen circuit as seen from the opposite side](https://github.com/hyperrhiz/muscle/blob/master/image005.png "")
+![Figure 5 The shock pen circuit as seen from the opposite side](https://github.com/hyperrhiz/muscle/blob/master/img/image005.png "")
 
 _Figure 5 The shock pen circuit as seen from the opposite side. The white wire connected to the white circuit and the yellow wire connected to the blue voltage stepper must be in contact with the skin in order for the shock to be felt._
 
